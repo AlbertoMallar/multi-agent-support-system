@@ -56,6 +56,9 @@ Thumbs.db
 # Rebuildable local vector-store artifacts
 data/vector_stores/
 
+# Local reference assets
+references/
+
 # Python packaging / build artifacts
 build/
 dist/
